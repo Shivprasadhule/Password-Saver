@@ -1,0 +1,23 @@
+SECRET_KEY: "rzaNklYJO4iQ_ahQXCDLIp_AFEh2UOZYalKFDT3hhg4"
+SQLALCHEMY_TRACK_MODIFICATIONS: true
+
+# Default database
+DATABASE_URL: "sqlite:///data/password_saver.sqlite3"
+
+# Mysql database config
+MYSQL_HOST: ""
+MYSQL_USER: ""
+MYSQL_PASSWORD: ""
+MYSQL_PORT: 3306
+
+# Mail server config
+MAIL_SERVER: 'smtp.gmail.com'
+MAIL_USERNAME: 'shivnd2023@gmail.com'
+MAIL_PASSWORD: 'nrzsajfqdomahrgm'
+MAIL_PORT: 465
+MAIL_USE_SSL: True
+MAIL_USE_TLS: False
+
+# Admin details
+ADMIN_EMAIL: 'admin'
+ADMIN_PASSWORD: 'admin'
