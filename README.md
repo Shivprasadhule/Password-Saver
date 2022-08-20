@@ -64,7 +64,6 @@ Most of the time, you don't want to store your passwords in plain text and it is
 
 1. OS:
 
-    ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
     ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 2. Programing Language:
@@ -81,7 +80,6 @@ Most of the time, you don't want to store your passwords in plain text and it is
 4. Tools:
 
     ![Git](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-    ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
     ![Flask](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
     ![SQLAlchemy](https://img.shields.io/badge/Tools-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=2bbc8a)
     ![Bootstrap](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
